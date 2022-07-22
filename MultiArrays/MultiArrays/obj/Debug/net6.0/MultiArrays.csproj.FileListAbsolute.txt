@@ -1,0 +1,15 @@
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/bin/Debug/net6.0/MultiArrays
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/bin/Debug/net6.0/MultiArrays.deps.json
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/bin/Debug/net6.0/MultiArrays.runtimeconfig.json
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/bin/Debug/net6.0/MultiArrays.dll
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/bin/Debug/net6.0/MultiArrays.pdb
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.AssemblyInfo.cs
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.dll
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/refint/MultiArrays.dll
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.pdb
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/MultiArrays.genruntimeconfig.cache
+/Users/viktornazilin/Projects/MultiArrays/MultiArrays/obj/Debug/net6.0/ref/MultiArrays.dll
